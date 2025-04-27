@@ -1,0 +1,168 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: test\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "DARK@UNIT_01@NAME"
+msgstr "Incarnate^m"
+
+msgid "DARK@UNIT_02@NAME"
+msgstr "Shade^f"
+
+msgid "HIGH@UNIT_03@NAME"
+msgstr "Celestian^f"
+
+msgid "HIGH@UNIT_04@NAME"
+msgstr "Brightlancer^m"
+
+msgid "BARBARIAN@UNIT_01@NAME"
+msgstr "Champion^m"
+
+msgid "BARBARIAN@UNIT_02@NAME"
+msgstr "Slayer^m"
+
+msgid "FEUDAL@UNIT_07@NAME"
+msgstr "Yeoman^m"
+
+msgid "FEUDAL@UNIT_02@NAME"
+msgstr "Royal Guard^m"
+
+msgid "INDUSTRIOUS@UNIT_01@NAME"
+msgstr "Juggernaut^m"
+
+msgid "INDUSTRIOUS@UNIT_03@NAME"
+msgstr "Sharpshooter^f"
+
+msgid "MYSTIC@UNIT_07@NAME"
+msgstr "Magister^f"
+
+msgid "MYSTIC@UNIT_03@NAME"
+msgstr "Mage Hunter^m"
+
+msgid "OUTLAW@UNIT_03@NAME"
+msgstr "Enforcer^m"
+
+msgid "OUTLAW@UNIT_07@NAME"
+msgstr "Highwayman^m"
+
+msgid "CUSTOMABILTENAME1@ASTRAL_TORRENT@NAME"
+msgstr "Possess"
+
+msgid "CUSTOMABILTENAME1@ASTRAL_TORRENT@DESCRIPTION"
+msgstr "When this unit dies Mind Control the enemy unit adjacent to this unit."
+
+msgid "CUSTOMABILTENAME2@UNIT1@ABILITY1@BOLT_NAME"
+msgstr "Siphoning Bolts"
+
+msgid "CUSTOMABILTENAME2@UNIT1@ABILITY1@DESCRIPTION"
+msgstr "Attacks Heal 8+{SOOTHING_BREEZE_HEAL>NumHitpointsToRestore} a random ally within 2 hexes."
+
+msgid "CUSTOMABILTENAME3@ASTRAL_PURSUIT@DESCRIPTION"
+msgstr "Teleports the unit to target unit and deals damage to it."
+
+msgid "CUSTOMABILTENAME3@ASTRAL_PURSUIT@NAME"
+msgstr "Shadow Strike"
+
+msgid "CUSTOMABILTENAME4@ASTRAL_PURSUIT@NAME"
+msgstr "Quick Throw"
+
+msgid "CUSTOMABILTENAME4@INTIMIDATING_AURA@DESCRIPTION"
+msgstr "At the end of this unit's turn, adjacent ally units have a base of gaining 5{GLOBAL.UnitMoraleConcept.Hyperlink}.[br/]Doesn't affect Tier IV,Tier V and hero units."
+
+msgid "CUSTOMABILTENAME5@INTIMIDATING_AURA@NAME"
+msgstr "Inspiring Aura"
+
+msgid "CUSTOMABILTENAME5@E01@ABILITY_DESCRIPTION"
+msgstr ""
+"Damage sustained by the target friendly unit is transferred to this unit with a {WARDING_BOND_MARTYR>ResolvedDamageMultiplier}% reduction. Can only be used on Tier IV,Tier V "
+"and hero units"
+
+msgid "CUSTOMABILTENAME6@E01@CANCEL_ABILITY_DESCRIPTION"
+msgstr "Cancels the effect of Pledge of Protection."
+
+msgid "CUSTOMABILTENAME6@ASTRAL_PURSUIT@NAME"
+msgstr "Pledge of Protection"
+
+msgid "CUSTOMABILTENAME7@SUMMON_GHOST@DESCRIPTION"
+msgstr "Summons a Mystic Projection onto the target hex.{LOC.CONCEPT@SUMMON_LIVE_SHARED}4[br/][br/]."
+
+msgid "CUSTOMABILTENAME7@SUMMON_GHOST@NAME"
+msgstr "Summon Projection"
+
+msgid "CUSTOMABILTENAME8@SUMMON_GHOST@DESCRIPTION"
+msgstr ""
+"Target friendly unit heals for 40+{SOOTHING_BREEZE_HEAL>NumHitpointsToRestore} and has its negative Status Effects removed. The unit is pulled to a hex adjacent to this unit."
+
+msgid "CUSTOMABILTENAME8@SUMMON_GHOST@NAME"
+msgstr "Arcane Retreat"
+
+msgid "CUSTOMABILTENAME9@FRENZY@DESCRIPTION"
+msgstr "When this unit lands a melee attack, it gains increased range on its ranged attack."
+
+msgid "CUSTOMABILTENAME9@FRENZY@NAME"
+msgstr "Foresight"
+
+msgid "CUSTOMABILTENAME10@COSMIC_SPARK@DESCRIPTION"
+msgstr ""
+"Deals 8{COSMIC_SPARK_EXTRA_DAMAGE>DAMAGE>Shock} {GLOBAL.LightningDamageConcept.Hyperlink}, 8{COSMIC_SPARK_EXTRA_DAMAGE>DAMAGE>Fire} {GLOBAL.FireDamageConcept.Hyperlink}, or "
+"8{COSMIC_SPARK_EXTRA_DAMAGE>DAMAGE>Frost} {GLOBAL.FrostDamageConcept.Hyperlink} at random. Affect Support and Battle Mage units."
+
+msgid "CUSTOMABILTENAME10@COSMIC_SPARK@NAME"
+msgstr "Cosmic Spark"
+
+msgid "CUSTOMABILTENAME11@COSMIC_SPARK@DESCRIPTION"
+msgstr "Unit gain 30% Damage, 2 range and armor piercing until they move."
+
+msgid "CUSTOMABILTENAME11@COSMIC_SPARK@NAME"
+msgstr ""
+"Take AimTarget enemy unit that is Tier {tier} or lower:[bulletlist][bullet/]Has a base {CRUSHING_EARTH_RESISTANCE_CHECK>ResolvedStrength}% chance of instantly dying."
+"[bullet/]If unit resists, it is {GLOBAL.PROPERTIES.STUNNED} and sustains {CRUSHING_EARTH_UNIT_DAMAGE>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept.Hyperlink} instead.[/"
+"bulletlist]"
+
+msgid "CUSTOMABILTENAME12@BASH@DESCRIPTION"
+msgstr "Base {STUNNED_RESISTANCE>ResolvedStrength}% of target unit becoming {GLOBAL.PROPERTIES.STUNNED.Hyperlink}. Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."
+
+msgid "CUSTOMABILTENAME12@MISC11@ABILITY@DESCRIPTION"
+msgstr ""
+"Grants a {TAUNTED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.TAUNTED.Hyperlink} on target enemy for {TAUNTED_LINK_EFFECT>Duration} <<m:{GLOBAL."
+"TurnConcept.Hyperlink}>>."
+
+msgid "CUSTOMABILTENAME13@FRENZY@DESCRIPTION"
+msgstr "When this unit lands an attack, it gains a stack of {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}."
+
+msgid "CUSTOMABILTENAME13@FRENZY@NAME"
+msgstr "Vanguard"
+
+msgid "CUSTOMABILTENAME14@KILLING_MOMENTUM@DESCRIPTION"
+msgstr "Unit regains {ap} <<m:{GLOBAL.ActionPointConcept.Hyperlink}>> when killing another unit. Works once per {GLOBAL.TurnConcept}."
+
+msgid "CUSTOMABILTENAME14@FRENZY@NAME"
+msgstr "Frenzy"
+
+msgid "CUSTOMABILTENAME15@TAUNT@DESCRIPTION"
+msgstr ""
+"Target enemy unit is inflicted with a base {TAUNTED_RESISTANCE>ResolvedStrength}% chance of becoming {GLOBAL.PROPERTIES.TAUNTED.Hyperlink} for {TAUNTED_LINK_EFFECT>Duration} "
+"<<m:{GLOBAL.TurnConcept}>>. The unit that used the skill enters {GLOBAL.DefenseModeConcept.Hyperlink}."
+
+msgid "CUSTOMABILTENAME01@TAUNT@DESCRIPTION"
+msgstr ""
+"Target enemy unit is inflicted with a base {TAUNTED_RESISTANCE>ResolvedStrength}% chance of becoming {GLOBAL.PROPERTIES.TAUNTED.Hyperlink} for {TAUNTED_LINK_EFFECT>Duration} "
+"<<m:{GLOBAL.TurnConcept}>>."
+
+msgid "CUSTOMABILTENAME16@TRANSFER_ARMOR@DESCRIPTION"
+msgstr "Target friendly unit gains {amount} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}."
+
+msgid "CUSTOMABILTENAME16@AWAKEN@DESCRIPTION"
+msgstr "All friendly unit gains {GLOBAL.PROPERTIES.AWAKENED.Hyperlink} for {AWAKEN_STATUS_DESCRIPTION>NumTurns} [turn/]."
+
+msgid "CUSTOMABILTENAME16@AWAKEN@NAME"
+msgstr "Great Awakening"

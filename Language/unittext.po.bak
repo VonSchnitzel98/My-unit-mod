@@ -597,7 +597,7 @@ msgid "CELESTINA@DISCRIPTE"
 msgstr "Twin Meaning Awaking"
 
 msgid "HALADABLTI2NEW@DISCRIPT"
-msgstr "Target Friendly unit and another:[bulletlist][bullet/]Heal +30<<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet/]Becomes {GLOBAL.PROPERTIES.AWAKENED.Hyperlink} for 3[turn/].[/bulletlist]"
+msgstr "Target Friendly unit and another unit within 2 hexes:[bulletlist][bullet/]Heal +30<<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet/]Becomes {GLOBAL.PROPERTIES.AWAKENED.Hyperlink} for 3[turn/].[/bulletlist]"
 
 msgid "CELESTINANEW@DISCRIPTE"
 msgstr "All {GLOBAL.PROPERTIES.AWAKENED.Hyperlink} units gain:[bulletlist][bullet/]{GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}.[/bulletlist]"
@@ -744,7 +744,7 @@ msgid "DARKVITA@UNIT@ABILTIS@NAME"
 msgstr "​Dark Vitality"
 
 msgid "LIFDRA@UNIT@ABILTIS@DISCRIPT"
-msgstr "Traget enemy unit sustains ​damage and gains:[bulletlist][bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink}.[bullet][bullet/]3 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet][bullet/]Refresh casters use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}.[bullet]"
+msgstr "Traget enemy unit sustains ​damage and gains:[bulletlist][bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1<<m:{GLOBAL.TurnConcept}>>.[bullet][bullet/]3 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet][bullet/]Refresh casters use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}.[bullet]"
 
 msgid "DARKVITA@UNIT@ABILTIS@DISCRIPT"
 msgstr "​Target friendly unit:[bulletlist][bullet/]Heals +6 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet][bullet/]{GLOBAL.PROPERTIES.REGENERATION.Hyperlink.}[bullet][bullet/]{GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink.}[bullet]"
@@ -894,7 +894,10 @@ msgid "SUBCULTNEWYBUT@J"
 msgstr "Archivist"
 
 msgid "SUBCULTNEWYBUT@ABILT"
-msgstr "Archivist's Tome"
+msgstr "Spell Book"
 
 msgid "SUBCULTNEWYBUT@SKILL3@DESCRIPTION"
 msgstr "Summons {ReflectionCount} <<m:{GLOBAL.PROPERTIES.SIMULACRUMN.Hyperlink}>> of the target friendly unit onto unoccupied adjacent hexes.[br/]Cannot target Tier IV, Tier V, <<m:{GLOBAL.PROPERTIES.HERO.Hyperlink}>>, <<m:{GLOBAL.PROPERTIES.COMBAT_SUMMON.Hyperlink}>>, and <<m:{GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink}>>."
+
+msgid "RACETRAITS_WORLD@FABLED_HUNTERS@EFFECT_03@DESCRIPTION"
+msgstr "Start with an extra {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink} or {GLOBAL.PROPERTIES.SKIRMISHER.Hyperlink}."

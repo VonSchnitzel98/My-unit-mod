@@ -807,7 +807,7 @@ msgid "HARMONAB2@DISCRIPT"
 msgstr "Target friendly unit:[bulletlist][bullet/]heals for 60 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet][bullet/]2 {GLOBAL.PROPERTIES.FORTUNE.Hyperlink}.[bullet][bullet/]{GLOBAL.PROPERTIES.RALLYING.Hyperlink}.[bullet][bullet/]At the start of next turn unit get {GLOBAL.PROPERTIES.PACIFIED.Hyperlink} for 1 <<m:{GLOBAL.TurnConcept}>>.[bullet]"
 
 msgid "HARMONAB3@ABILTY"
-msgstr "Caster take 6 {GLOBAL.PhysicalDamageConcept.Hyperlink} and gain {GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1 <<m:{GLOBAL.TurnConcept}>>. refresh use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}."
+msgstr "Caster gain {GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1 <<m:{GLOBAL.TurnConcept}>>. refresh use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}."
 
 msgid "HARMONAB4@ABILTY"
 msgstr "Caster heal 20 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and gains 2 {GLOBAL.PROPERTIES.BURNING.Hyperlink}:[bulletlist][bullet/]Enemies units in a 1-hex radius gain 2 {GLOBAL.PROPERTIES.REMORSE.Hyperlink} and 60% chance to {GLOBAL.PROPERTIES.PACIFIED.Hyperlink}.[bullet/]Enemies units in a 2-hex radius gain {GLOBAL.PROPERTIES.REMORSE.Hyperlink} and 30% chance to {GLOBAL.PROPERTIES.PACIFIED.Hyperlink}.[bullet/]Friendly units in a 1-hex radius gain 2 {GLOBAL.PROPERTIES.RALLYING.Hyperlink}.[bullet/]Friendly units in a 2-hex radius gain {GLOBAL.PROPERTIES.RALLYING.Hyperlink}."

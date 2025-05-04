@@ -898,6 +898,3 @@ msgstr "Spell Book"
 
 msgid "SUBCULTNEWYBUT@SKILL3@DESCRIPTION"
 msgstr "Summons {ReflectionCount} <<m:{GLOBAL.PROPERTIES.SIMULACRUMN.Hyperlink}>> of the target friendly unit onto unoccupied adjacent hexes.[br/]Cannot target Tier IV, Tier V, <<m:{GLOBAL.PROPERTIES.HERO.Hyperlink}>>, <<m:{GLOBAL.PROPERTIES.COMBAT_SUMMON.Hyperlink}>>, and <<m:{GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink}>>."
-
-msgid "RACETRAITS_WORLD@FABLED_HUNTERS@EFFECT_03@DESCRIPTION"
-msgstr "Start with an extra {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink} or {GLOBAL.PROPERTIES.SKIRMISHER.Hyperlink}."

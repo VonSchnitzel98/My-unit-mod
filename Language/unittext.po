@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.6\n"
 
 msgid "DARK@UNIT_01@NAME"
 msgstr "Tormentor^m"
@@ -57,7 +57,7 @@ msgid "CUSTOMABILTENAME1@ASTRAL_TORRENT@NAME"
 msgstr "Possess"
 
 msgid "CUSTOMABILTENAME1@ASTRAL_TORRENT@DESCRIPTION"
-msgstr "When this unit dies the enemy unit adjacent to this unit get {GLOBAL.UnitMoraleConcept.Hyperlink}."
+msgstr "When this unit dies the enemy unit adjacent to this unit get increased {GLOBAL.UnitMoraleConcept.Hyperlink}."
 
 msgid "CUSTOMABILTENAME2@UNIT1@ABILITY1@BOLT_NAME"
 msgstr "Siphoning Bolts"
@@ -75,7 +75,7 @@ msgid "CUSTOMABILTENAME4@ASTRAL_PURSUIT@NAME"
 msgstr "Shoot Crossbow"
 
 msgid "CUSTOMABILTENAME4@INTIMIDATING_AURA@DESCRIPTION"
-msgstr "At the end of this unit's turn, adjacent ally units have a base of gaining 5{GLOBAL.UnitMoraleConcept.Hyperlink}.[br/]Doesn't affect Tier IV,Tier V and hero units."
+msgstr "At the end of this unit's turn, adjacent ally units have a base of gaining +5 {GLOBAL.UnitMoraleConcept.Hyperlink}.[br/]Doesn't affect Tier IV,Tier V and hero units."
 
 msgid "CUSTOMABILTENAME5@INTIMIDATING_AURA@NAME"
 msgstr "Inspiring Aura"
@@ -96,7 +96,7 @@ msgid "CUSTOMABILTENAME7@SUMMON_GHOST@NAME"
 msgstr "Summon Projection"
 
 msgid "CUSTOMABILTENAME8@SUMMON_GHOST@DESCRIPTION"
-msgstr "Target friendly unit heals for 40+ <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and has its negative Status Effects removed. The unit is pulled to a hex adjacent to this unit."
+msgstr "Target friendly: unit heals for +40 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and has its negative Status Effects removed. The unit is pulled to a hex adjacent to this unit."
 
 msgid "CUSTOMABILTENAME8@SUMMON_GHOST@NAME"
 msgstr "Recall"
@@ -114,10 +114,10 @@ msgid "CUSTOMABILTENAME10@COSMIC_SPARK@NAME"
 msgstr "Cosmic Spark"
 
 msgid "CUSTOMABILTENAME11@COSMIC_SPARK@DESCRIPTION"
-msgstr "Create a fortified position around the unit that lasts untill the end of combat and provide units standing in it {GLOBAL.PROPERTIES.STAKS2.Hyperlink}, {GLOBAL.PROPERTIES.CHARGE_RESISTANCE.Hyperlink} and {GLOBAL.PROPERTIES.STAKSDUMY.Hyperlink}."
+msgstr "Create a fortified position around the unit that lasts until the end of combat and provide units standing in it {GLOBAL.PROPERTIES.STAKS2.Hyperlink}, {GLOBAL.PROPERTIES.CHARGE_RESISTANCE.Hyperlink} and {GLOBAL.PROPERTIES.STAKSDUMY.Hyperlink}."
 
 msgid "CUSTOMABILTENAME11@COSMIC_SPARK@NAME"
-msgstr "Entrench "
+msgstr "Entrench"
 
 msgid "CUSTOMABILTENAME12@BASH@DESCRIPTION"
 msgstr "Base {STUNNED_RESISTANCE>ResolvedStrength}% of target unit becoming {GLOBAL.PROPERTIES.STUNNED.Hyperlink}. Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."
@@ -132,7 +132,7 @@ msgid "CUSTOMABILTENAME13@FRENZY@NAME"
 msgstr "Vanguard"
 
 msgid "CUSTOMABILTENAME14@KILLING_MOMENTUM@DESCRIPTION"
-msgstr "Unit regains {ap} <<m:{GLOBAL.ActionPointConcept.Hyperlink}>> when killing another unit. Works once per {GLOBAL.TurnConcept}."
+msgstr "Unit regains {ap} <<m:{GLOBAL.ActionPointConcept.Hyperlink}>> when killing another unit. Works once per <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "CUSTOMABILTENAME14@FRENZY@NAME"
 msgstr "Frenzy"
@@ -147,7 +147,7 @@ msgid "CUSTOMABILTENAME16@TRANSFER_ARMOR@DESCRIPTION"
 msgstr "Target friendly unit gains {amount} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}."
 
 msgid "CUSTOMABILTENAME96@AWAKEN@DESCRIPTION"
-msgstr "All friendly unit gains {GLOBAL.PROPERTIES.AWAKENED.Hyperlink} for {AWAKEN_STATUS_DESCRIPTION>NumTurns} [turn/]."
+msgstr "All friendly unit gains {GLOBAL.PROPERTIES.AWAKENED.Hyperlink} for {AWAKEN_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "CUSTOMABILTENAME99@AWAKEN@NAME"
 msgstr "Great Awakening"
@@ -156,16 +156,16 @@ msgid "CUSTOMABILTENAME22@FRENZY@NAME"
 msgstr "Axe Throw"
 
 msgid "SHAREDMODIFIERS_UNITPROPERTIES@STUN@MODIFIER11"
-msgstr "Base {STUNNED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.STUNNED.Hyperlink} for {STUNNED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. Affect Support and Battle Mage units."
+msgstr "Base {STUNNED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.STUNNED.Hyperlink} for {STUNNED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. Affect {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink} and {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink}."
 
 msgid "CUSTOMABILTENAMEVADGUARD1@MISC11@ABILITY@DESCRIPTION"
-msgstr "When this unit lands an attack, it gains a stack of{amount} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}."
+msgstr "When this unit lands an attack, it gains a stack of {amount} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}."
 
 msgid "CUSTOMABILTENAMEVADGUARD@MISC11@ABILITY@DESCRIPTION"
-msgstr "When this unit lands an attack, it gains a stack of{amount} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} and have chance to {TAUNTED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.TAUNTED.Hyperlink} on target enemy for {TAUNTED_LINK_EFFECT>Duration}1 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
+msgstr "When this unit lands an attack, it gains a stack of {amount} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} and have a base {TAUNTED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.TAUNTED.Hyperlink} on target enemy for {TAUNTED_LINK_EFFECT>Duration}1 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
 
 msgid "CUSTOMABILTENAMEVTRANSFUSIUON@MISC@ABILITY@DESCRIPTION"
-msgstr "Heal 3+ <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> to 2 random friendly units within 3 hexes."
+msgstr "Heal 3 + <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> to 2 random friendly units within 3 hexes."
 
 msgid "CUSTOMABILTETRANSFUSION@FRENZY@NAME"
 msgstr "Transfusion"
@@ -177,13 +177,13 @@ msgid "CUSTOMABILTETRANSFUSION44@FRENZY@NAME"
 msgstr "Bully"
 
 msgid "CUSTOMABILTENAME43@COSMIC_SPARK@DESCRIPTION"
-msgstr "Unit has 1+{WATCHFUL_NUM_OVERWATCH>NumTriggersToAdd}{GLOBAL.RetaliationConcept.Hyperlink} and Tier I-III units take an additional 10{GLOBAL.PhysicalDamageConcept.Hyperlink}.[/bulletlist]"
+msgstr "Unit has 1+{WATCHFUL_NUM_OVERWATCH>NumTriggersToAdd}{GLOBAL.RetaliationConcept.Hyperlink} and Tier I-III units take an additional 10{GLOBAL.PhysicalDamageConcept.Hyperlink}."
 
 msgid "CUSTOMABILTENAME49@COSMIC_SPARK@DESCRIPTION"
-msgstr "Tier I-III units take an additional 10{GLOBAL.PhysicalDamageConcept.Hyperlink}.[/bulletlist]"
+msgstr "Tier I-III units take an additional 10{GLOBAL.PhysicalDamageConcept.Hyperlink}."
 
 msgid "CUSTOMABILTENA49@COSMIC_SPARK@DESCRIPTION"
-msgstr "Base 20% chance to instantly routing enemy target.[br/] If unsuccessful the unit is {GLOBAL.PROPERTIES.TAUNTED.Hyperlink}, {GLOBAL.PROPERTIES.DISTRACTED.Hyperlink} and inflicting 5-{GLOBAL.UnitMoraleConcept.Hyperlink} instead. Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."
+msgstr "Base 20% chance to instantly routing enemy target.[br/] If unsuccessful the unit is {GLOBAL.PROPERTIES.TAUNTED.Hyperlink}, {GLOBAL.PROPERTIES.DISTRACTED.Hyperlink} and inflicting -5{GLOBAL.UnitMoraleConcept.Hyperlink} instead.[br/]Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."
 
 msgid "CUSTOMABILTETRANSFUS44@FRENZY@NAME"
 msgstr "Threaten"
@@ -198,7 +198,7 @@ msgid "RUNANDSHOO56TGY6@FRENZY@NAME"
 msgstr "Celestial Hymn"
 
 msgid "RUNANDSHOOTGY6@FRENZY@NAME"
-msgstr "Heal Target friendly unit and adjacent allies for 40+ <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> gain 5{GLOBAL.UnitMoraleConcept.Hyperlink} and {GLOBAL.PROPERTIES.FEARLESS.Hyperlink} for 3 <<m:{GLOBAL.TurnConcept}>>."
+msgstr "Heal Target friendly unit and adjacent allies for +40 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> gain +5{GLOBAL.UnitMoraleConcept.Hyperlink} and {GLOBAL.PROPERTIES.FEARLESS.Hyperlink} for 3 <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "COMMANDAT@COMMANDAT@NAME"
 msgstr "Commandant^m"
@@ -216,7 +216,7 @@ msgid "GRANATA@DESCRIPTION"
 msgstr "Deals damage in a 1-hex radius:"
 
 msgid "COMMANDAT@DESCRIPTION"
-msgstr "Executes target {GLOBAL.PROPERTIES.MIND_CONTROLLED.Hyperlink} allied unit restoring 150+{GLOBAL.UnitMoraleConcept.Hyperlink} to all allied units, apply 3 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and {GLOBAL.PROPERTIES.FEARLESS.Hyperlink} for 3 <<m:{GLOBAL.TurnConcept}>>."
+msgstr "Executes target {GLOBAL.PROPERTIES.MIND_CONTROLLED.Hyperlink} allied unit restoring +150{GLOBAL.UnitMoraleConcept.Hyperlink} to all allied units, apply 3 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and {GLOBAL.PROPERTIES.FEARLESS.Hyperlink} for 3 <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "COMMANDAT@ABLETY"
 msgstr "Press The Advantage"
@@ -324,19 +324,19 @@ msgid "TORTURE@GTT"
 msgstr "Twin Sundering Curse"
 
 msgid "TORTURE@JHTT"
-msgstr "Striks target enemy units."
+msgstr "Strikes target enemy units."
 
 msgid "TORTURE@HYT"
 msgstr "Drain Strength"
 
 msgid "CULTURE_DARK@FRG@DESCRIPTION"
-msgstr "Target enemy unit and 1 others within 3 hexes sustains damage and gains:[bulletlist][bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}[bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}"
+msgstr "Target enemy unit and 1 others within 3 hexes sustains damage and gains:[bulletlist][bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}[bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}[/bulletlist]"
 
 msgid "CUSTOMABILTENAMEVTRANSFUSIUON@MISC@43@DESCRIPTION"
-msgstr "Heal 3+ <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> to 2 random friendly units within 3 hexes."
+msgstr "Heal +3 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> to 2 random friendly units within 3 hexes."
 
 msgid "FGDG@WEAKENED@MODIFIER_DESCRIPTION"
-msgstr "Base 90% chance of inflicting 2 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} and {GLOBAL.PROPERTIES.DECAYING.Hyperlink} on target.[bullet/] Grants Tormentor 2 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and {GLOBAL.PROPERTIES.REGENERATION.Name}.[/bulletlist]"
+msgstr "Base 90% chance of inflicting 2 stacks of {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} and {GLOBAL.PROPERTIES.DECAYING.Hyperlink} on target.[bullet/] Grants Tormentor 2 stacks of {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and {GLOBAL.PROPERTIES.REGENERATION.Name}.[/bulletlist]"
 
 msgid "PRIMALUNIT@PRIMALIST"
 msgstr "Primalist^f"
@@ -354,25 +354,25 @@ msgid "MOUNT@SPIRET"
 msgstr "Mount"
 
 msgid "SHAPESHANGE@SPIRET"
-msgstr "Shapechange"
+msgstr "Shapeshift"
 
 msgid "JAVIL@SPIRET"
 msgstr "Throw Trident"
 
 msgid "JAVILF@SPIRET"
-msgstr "Throws a projectile at target unit and regain half their <<m:{GLOBAL.ActionPointConcept.Hyperlink}>> but can only {GLOBAL.MeleeConcept.Hyperlink} attack:[bulletlist][bullet/]Gain 25% damage per hex traveled, up to 4 hexes.[/bulletlist]"
+msgstr "Throws a projectile at target unit and regain half their <<m:{GLOBAL.ActionPointConcept.Hyperlink}>> but can only do a base attack.[br/]This attack:[bulletlist][bullet/]Gain 25% damage per hex traveled, up to 4 hexes.[/bulletlist]"
 
 msgid "TARNSMOUNT@SPIRET"
-msgstr "Transform into a fast moving Mount with {GLOBAL.PROPERTIES.MASTER_SKIRMISHER.Hyperlink}, {GLOBAL.PROPERTIES.SWIFT.Hyperlink}, {GLOBAL.PROPERTIES.SLIPPERY_ITEM.Hyperlink} and 60% chance of inflicting {GLOBAL.PROPERTIES.STUNNED.Hyperlink} on melee attacks. This effect last until the end of the turn."
+msgstr "Transform into a fast moving beast with {GLOBAL.PROPERTIES.MASTER_SKIRMISHER.Hyperlink}, {GLOBAL.PROPERTIES.SWIFT.Hyperlink}, {GLOBAL.PROPERTIES.SLIPPERY_ITEM.Hyperlink} and 60% chance of inflicting {GLOBAL.PROPERTIES.STUNNED.Hyperlink} on base attacks. This effect last until the end of the turn."
 
 msgid "BESATMATERSPITRETBEST@SPIRET"
-msgstr "At the start of battle, Summons your cultures chosen Primal Animal."
+msgstr "At the start of battle, summons your cultures chosen Primal Animal."
 
 msgid "PRIMALSHELD@SPIRET"
-msgstr "This unit gains {GLOBAL.PROPERTIES.PRIMAL_FURY.Hyperlink} when hit by a {GLOBAL.RangedConcept.Hyperlink} and {GLOBAL.MeleeConcept.Hyperlink} attack."
+msgstr "This unit gains a stack of {GLOBAL.PROPERTIES.PRIMAL_FURY.Hyperlink} when hit by a {GLOBAL.RangedConcept.Hyperlink} or {GLOBAL.MeleeConcept.Hyperlink} attacks."
 
 msgid "JAVIL66@SPIRET"
-msgstr "Throw Trident - Defens Disabled"
+msgstr "Throw Trident - {GLOBAL.DefenseModeConcept.Hyperlink} Disabled"
 
 msgid "JAVIL696@SPIRET"
 msgstr "Limited Ammo"
@@ -381,7 +381,7 @@ msgid "JAVIL626@SPIRET"
 msgstr "Refresh the use of Throw Trident on its first use."
 
 msgid "JAVDEFENIL626@SPIRET"
-msgstr "This unit cannot use Defense."
+msgstr "This unit cannot use {GLOBAL.DefenseModeConcept.Hyperlink}."
 
 msgid "LIGBRING@SPIRET"
 msgstr "Lightbinder^f"
@@ -450,7 +450,7 @@ msgid "SHFRTHROWFGH@SPIRET"
 msgstr "Strikes target enemy unit and then teleports back 3 hexes."
 
 msgid "HGGHGHGTHROWFGH@SPIRET"
-msgstr "Target enemy unit get 2 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}, {GLOBAL.PROPERTIES.DECAYING.Hyperlink} and nearest friendly unit Heal +10<<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink} and gains {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and 2 {GLOBAL.PROPERTIES.REGENERATION.Name}."
+msgstr "Target enemy unit gains:[bulletlist][bullet/]2 stacks of {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink}.[/bulletlist][br/]Nearest friendly unit gains:[bulletlist][bullet/]Heals for +10 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}.[bullet/]2 {GLOBAL.PROPERTIES.REGENERATION.Name}."
 
 msgid "GFFWFHDTHROWFGH@SPIRET"
 msgstr "Weakening Blast"
@@ -504,7 +504,7 @@ msgid "CULTURLLLLLTOTEMABLTY@DESCRIPTION"
 msgstr "Spiritual Guidance"
 
 msgid "BESATMATERSPITRETBESGGFGT@DESCRIPTION"
-msgstr "Summon a Primal Totem and Primal Animal based on your chosen Primal Animal at target loction.[bulletlist][bullet/]Requires at least 1 Fury of chosen Primal Animal.[bullet/]Consumes any remaining stacks of Fury of chosen Primal Animal on use."
+msgstr "Summon a Primal Totem and Primal Animal based on your chosen Primal Animal at target location.[bulletlist][bullet/]Requires at least 1 Fury of chosen Primal Animal.[bullet/]Consumes any remaining stacks of Fury of chosen Primal Animal on use."
 
 msgid "CULTURLLLLLBARCED@SPIRET"
 msgstr "Braced Defense Mode"
@@ -630,7 +630,7 @@ msgid "INHERT@NAME"
 msgstr "Noble Inheritance"
 
 msgid "INHERT@DISCRIPT"
-msgstr "If this unit dies transform random Knight or Aspiring Knight in to a Noble Knight."
+msgstr "If this unit dies transform random a Knight or Aspiring Knight in to a Noble Knight."
 
 msgid "TESTMA@DISCRIPT"
 msgstr "Testman"
@@ -744,7 +744,7 @@ msgid "DARKVITA@UNIT@ABILTIS@NAME"
 msgstr "​Dark Vitality"
 
 msgid "LIFDRA@UNIT@ABILTIS@DISCRIPT"
-msgstr "Traget enemy unit sustains ​damage and gains:[bulletlist][bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1<<m:{GLOBAL.TurnConcept}>>.[bullet][bullet/]3 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet][bullet/]Refresh casters use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}.[bullet]"
+msgstr "Target enemy unit sustains ​damage and gains:[bulletlist][bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1<<m:{GLOBAL.TurnConcept}>>.[bullet][bullet/]3 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet][bullet/]Refresh casters use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}.[bullet]"
 
 msgid "DARKVITA@UNIT@ABILTIS@DISCRIPT"
 msgstr "​Target friendly unit:[bulletlist][bullet/]Heals +6 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet][bullet/]{GLOBAL.PROPERTIES.REGENERATION.Hyperlink.}[bullet][bullet/]{GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink.}[bullet]"
@@ -768,7 +768,7 @@ msgid "PAN@UNIT@ABILTIS@NAME"
 msgstr "Fear​"
 
 msgid "PAN@UNIT@ABILTIS@DISCRIPT"
-msgstr "Unit is uncontrollable and will alwyas try to move away from enemies.​"
+msgstr "Unit is uncontrollable and will always try to move away from enemies.​"
 
 msgid "OHTBOLT@UNIT@ABILTIS@DISCRIPT"
 msgstr "Oath Bolt​"
@@ -777,13 +777,13 @@ msgid "WARLOCK1@UNIT@ABILTIS@NAME"
 msgstr "​Life Tap"
 
 msgid "SALKER@UNIT@ABILTIS@NAME"
-msgstr "​Sundring Shot"
+msgstr "​Sundering Shot"
 
 msgid "COHORT@UNIT@NAME"
 msgstr "​Cohort"
 
 msgid "SALKER1@UNIT@ABILTIS@NAME"
-msgstr "​Sundring Shot"
+msgstr "​Sundering Shot"
 
 msgid "DUALISTTRAITTRANGED@NAME"
 msgstr "Dualist: Ranged"
@@ -804,13 +804,13 @@ msgid "HARMONAB1@ABILTY"
 msgstr "In a 1-hex radius:[bulletlist][bullet/]Friendly units have 2 negative status effects turned in to its opposite positive status effects.[bullet/]Enemies units have 2 positive status effects turned in to its opposite negative status effects."
 
 msgid "HARMONAB2@DISCRIPT"
-msgstr "Target friendly unit:[bulletlist][bullet/]heals for 60 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet][bullet/]2 {GLOBAL.PROPERTIES.FORTUNE.Hyperlink}.[bullet][bullet/]{GLOBAL.PROPERTIES.RALLYING.Hyperlink}.[bullet][bullet/]At the start of next turn unit get {GLOBAL.PROPERTIES.PACIFIED.Hyperlink} for 1 <<m:{GLOBAL.TurnConcept}>>.[bullet]"
+msgstr "Target friendly unit:[bulletlist][bullet/]Heals for 60 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet][bullet/]Gains 2 {GLOBAL.PROPERTIES.FORTUNE.Hyperlink}.[bullet][bullet/]{GLOBAL.PROPERTIES.RALLYING.Hyperlink}.[bullet][bullet/]At the start of next turn, get {GLOBAL.PROPERTIES.PACIFIED.Hyperlink} for 1 <<m:{GLOBAL.TurnConcept}>>.[bullet]"
 
 msgid "HARMONAB3@ABILTY"
-msgstr "Caster take 6 {GLOBAL.PhysicalDamageConcept.Hyperlink} and gain {GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1 <<m:{GLOBAL.TurnConcept}>>. refresh use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}."
+msgstr "Caster take 6 {GLOBAL.PhysicalDamageConcept.Hyperlink} and gain {GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1 <<m:{GLOBAL.TurnConcept}>>. Refresh use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}."
 
 msgid "HARMONAB4@ABILTY"
-msgstr "Caster heal 20 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and gains 2 {GLOBAL.PROPERTIES.BURNING.Hyperlink}:[bulletlist][bullet/]Enemies units in a 1-hex radius gain 2 {GLOBAL.PROPERTIES.REMORSE.Hyperlink} and 60% chance to {GLOBAL.PROPERTIES.PACIFIED.Hyperlink}.[bullet/]Enemies units in a 2-hex radius gain {GLOBAL.PROPERTIES.REMORSE.Hyperlink} and 30% chance to {GLOBAL.PROPERTIES.PACIFIED.Hyperlink}.[bullet/]Friendly units in a 1-hex radius gain 2 {GLOBAL.PROPERTIES.RALLYING.Hyperlink}.[bullet/]Friendly units in a 2-hex radius gain {GLOBAL.PROPERTIES.RALLYING.Hyperlink}."
+msgstr "Caster heals 20 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and gains 2 {GLOBAL.PROPERTIES.BURNING.Hyperlink}:[bulletlist][bullet/]Enemies units in a 1-hex radius gain 2 {GLOBAL.PROPERTIES.REMORSE.Hyperlink} and 60% chance to {GLOBAL.PROPERTIES.PACIFIED.Hyperlink}.[bullet/]Enemies units in a 2-hex radius gain {GLOBAL.PROPERTIES.REMORSE.Hyperlink} and 30% chance to {GLOBAL.PROPERTIES.PACIFIED.Hyperlink}.[bullet/]Friendly units in a 1-hex radius gain 2 {GLOBAL.PROPERTIES.RALLYING.Hyperlink}.[bullet/]Friendly units in a 2-hex radius gain {GLOBAL.PROPERTIES.RALLYING.Hyperlink}."
 
 msgid "DUALISTTRAITTRANGED@DISCRIP"
 msgstr "Unit has -1 [range/] {GLOBAL.PROPERTIES.RANGE.Hyperlink}Range{GLOBAL.RANGE.Hyperlink}. After attacking regain 1 ranged attack only action."
@@ -852,22 +852,22 @@ msgid "LESSLORD@TRAIT"
 msgstr "Lesser lord"
 
 msgid "HEVYSUNDRINGSTRIK@TRAIT"
-msgstr "Sundring Blow"
+msgstr "Sundering Blow"
 
 msgid "SUNDRINGSTRIK@TRAIT"
-msgstr "Sundring Strik"
+msgstr "Sundering Strike"
 
 msgid "SUNDRINGSTRIK@S"
 msgstr "Deal damage to target unit."
 
 msgid "SUNDRINGSTRIK@A"
-msgstr "Inflict 4x {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink} for 3 <<m:{GLOBAL.TurnConcept}>>."
+msgstr "Inflict 4 stacks of {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink} for 3 <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "NOBLE@S"
-msgstr "When no hero is present units in the army gain. Doesn't stack.[bulletlist][bullet/]+1 {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]+1 {GLOBAL.ResistanceConcept.Hyperlink}.[bullet/]+10 {GLOBAL.HitPointConcept.Hyperlink}."
+msgstr "When no hero is present, units in the army gain:[bulletlist][bullet/]+1 {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]+1 {GLOBAL.ResistanceConcept.Hyperlink}.[bullet/]+10 {GLOBAL.HitPointConcept.Hyperlink}.[/bulletlist][br/]Doesn't stack."
 
 msgid "NOBLE@D"
-msgstr "Units in the army gain +15 {GLOBAL.UnitMoraleConcept.Hyperlink}. For each additional Unit with this trait in the army, the army loses:[bulletlist][bullet/]-20 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+msgstr "Units in the army gains: [bulletlist][bullet/]+15 {GLOBAL.UnitMoraleConcept.Hyperlink}.[/bulletlist][br/]For each additional Units with this trait in the army, the army gains:[bulletlist][bullet/]-20 {GLOBAL.UnitMoraleConcept.Hyperlink}.[/bulletlist]"
 
 msgid "BESIIG@S"
 msgstr "Besieger"

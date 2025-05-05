@@ -744,10 +744,10 @@ msgid "DARKVITA@UNIT@ABILTIS@NAME"
 msgstr "​Dark Vitality"
 
 msgid "LIFDRA@UNIT@ABILTIS@DISCRIPT"
-msgstr "Traget enemy unit sustains ​damage and gains:[bulletlist][bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 1<<m:{GLOBAL.TurnConcept}>>.[bullet][bullet/]3 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet][bullet/]Refresh casters use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}.[bullet]"
+msgstr "Traget enemy unit sustains ​damage and gains:[bulletlist][bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink} for 2<<m:{GLOBAL.TurnConcept}>>.[bullet][bullet/]3 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet][bullet/]Refresh casters use of {GLOBAL.PROPERTIES.NEWDARKHEALL1.Hyperlink}.[bullet]"
 
 msgid "DARKVITA@UNIT@ABILTIS@DISCRIPT"
-msgstr "​Target friendly unit:[bulletlist][bullet/]Heals +6 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet][bullet/]{GLOBAL.PROPERTIES.REGENERATION.Hyperlink.}[bullet][bullet/]{GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink.}[bullet]"
+msgstr "​Target friendly unit:[bulletlist][bullet/]Heals +10 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet][bullet/]{GLOBAL.PROPERTIES.REGENERATION.Hyperlink.}[bullet][bullet/]{GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink.}[bullet]"
 
 msgid "HONORBOUND@UNIT@ABILTIS@NAME"
 msgstr "​Honorbound"

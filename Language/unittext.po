@@ -96,7 +96,7 @@ msgid "CUSTOMABILTENAME7@SUMMON_GHOST@NAME"
 msgstr "Summon Projection"
 
 msgid "CUSTOMABILTENAME8@SUMMON_GHOST@DESCRIPTION"
-msgstr "Target friendly: unit heals for +40 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and has its negative Status Effects removed. The unit is pulled to a hex adjacent to this unit."
+msgstr "Target friendly unit heals for +40 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and has its negative Status Effects removed. The unit is pulled to a hex adjacent to this unit."
 
 msgid "CUSTOMABILTENAME8@SUMMON_GHOST@NAME"
 msgstr "Recall"
@@ -165,7 +165,7 @@ msgid "CUSTOMABILTENAMEVADGUARD@MISC11@ABILITY@DESCRIPTION"
 msgstr "When this unit lands an attack, it gains a stack of {amount} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} and have a base {TAUNTED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.TAUNTED.Hyperlink} on target enemy for {TAUNTED_LINK_EFFECT>Duration}1 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
 
 msgid "CUSTOMABILTENAMEVTRANSFUSIUON@MISC@ABILITY@DESCRIPTION"
-msgstr "Heal 3 + <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> to 2 random friendly units within 3 hexes."
+msgstr "Heal +3 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> to 2 random friendly units within 3 hexes."
 
 msgid "CUSTOMABILTETRANSFUSION@FRENZY@NAME"
 msgstr "Transfusion"
